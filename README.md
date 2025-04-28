@@ -3,7 +3,7 @@ This is an application created in C# in Jetbrains Rider, to work on Linux Mint 2
 
 
 ### Installation
-1. xxample-settings.json, fill in your information and save file excluding "example-"
+1. example-settings.json, fill in your information and save file excluding "example-"
 ``` json
     {
     "Handle": "USERNAME.bsky.social",
