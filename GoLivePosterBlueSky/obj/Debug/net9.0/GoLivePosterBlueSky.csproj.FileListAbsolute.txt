@@ -1,0 +1,14 @@
+/home/kaydee/RiderProjects/GoLivePosterBlueSky/GoLivePosterBlueSky/bin/Debug/net9.0/GoLivePosterBlueSky
+/home/kaydee/RiderProjects/GoLivePosterBlueSky/GoLivePosterBlueSky/bin/Debug/net9.0/GoLivePosterBlueSky.deps.json
+/home/kaydee/RiderProjects/GoLivePosterBlueSky/GoLivePosterBlueSky/bin/Debug/net9.0/GoLivePosterBlueSky.runtimeconfig.json
+/home/kaydee/RiderProjects/GoLivePosterBlueSky/GoLivePosterBlueSky/bin/Debug/net9.0/GoLivePosterBlueSky.dll
+/home/kaydee/RiderProjects/GoLivePosterBlueSky/GoLivePosterBlueSky/bin/Debug/net9.0/GoLivePosterBlueSky.pdb
+/home/kaydee/RiderProjects/GoLivePosterBlueSky/GoLivePosterBlueSky/obj/Debug/net9.0/GoLivePosterBlueSky.GeneratedMSBuildEditorConfig.editorconfig
+/home/kaydee/RiderProjects/GoLivePosterBlueSky/GoLivePosterBlueSky/obj/Debug/net9.0/GoLivePosterBlueSky.AssemblyInfoInputs.cache
+/home/kaydee/RiderProjects/GoLivePosterBlueSky/GoLivePosterBlueSky/obj/Debug/net9.0/GoLivePosterBlueSky.AssemblyInfo.cs
+/home/kaydee/RiderProjects/GoLivePosterBlueSky/GoLivePosterBlueSky/obj/Debug/net9.0/GoLivePosterBlueSky.csproj.CoreCompileInputs.cache
+/home/kaydee/RiderProjects/GoLivePosterBlueSky/GoLivePosterBlueSky/obj/Debug/net9.0/GoLivePosterBlueSky.dll
+/home/kaydee/RiderProjects/GoLivePosterBlueSky/GoLivePosterBlueSky/obj/Debug/net9.0/refint/GoLivePosterBlueSky.dll
+/home/kaydee/RiderProjects/GoLivePosterBlueSky/GoLivePosterBlueSky/obj/Debug/net9.0/GoLivePosterBlueSky.pdb
+/home/kaydee/RiderProjects/GoLivePosterBlueSky/GoLivePosterBlueSky/obj/Debug/net9.0/GoLivePosterBlueSky.genruntimeconfig.cache
+/home/kaydee/RiderProjects/GoLivePosterBlueSky/GoLivePosterBlueSky/obj/Debug/net9.0/ref/GoLivePosterBlueSky.dll
