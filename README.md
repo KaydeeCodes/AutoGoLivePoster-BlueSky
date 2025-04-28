@@ -11,6 +11,12 @@ This is an application created in C# in Jetbrains Rider, to work on Linux Mint 2
     }   
 
 ```
+2. Ensure strings are changed accordingly:
+``` C#
+    string platform = "twitch";
+    string streamLink = "https://twitch.tv/kaydeecodes";
+    string tweetText = $"🔴 I'm LIVE now on {platform.ToUpper()}! Come hang out 👉 {streamLink} 🎮 {DateTime.Now:T} <3 ";
+```
 
 ## License
 This project uses the MIT License. See the `LICENSE.txt` file for details.
