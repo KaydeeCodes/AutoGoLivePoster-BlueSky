@@ -11,7 +11,7 @@ This is an application created in C# in Jetbrains Rider, to work on Linux Mint 2
     }   
 
 ```
-2. Ensure strings are changed accordingly:
+2. Ensure strings are changed accordingly (Program.cs):
 ``` C#
     string platform = "twitch";
     string streamLink = "https://twitch.tv/kaydeecodes";
